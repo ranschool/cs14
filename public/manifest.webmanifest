@@ -1,0 +1,18 @@
+{
+  "name": "CS14",
+  "short_name": "CS14",
+  "description": "הנדסת תוכנה וסייבר · לומדים, מתרגלים, מבינים",
+  "lang": "he",
+  "dir": "rtl",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#081421",
+  "theme_color": "#081421",
+  "icons": [
+    {
+      "src": "assets/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
